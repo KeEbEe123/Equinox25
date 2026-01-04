@@ -16,7 +16,7 @@ export default function Home() {
         />
       </div>
       <div className="relative z-10 flex items-center justify-center w-full h-full">
-        <h1 className="font-[family-name:var(--font-urbanist)] text-9xl font-bold text-white">
+        <h1 className="font-[family-name:var(--font-urbanist)] text-4xl md:text-9xl mt-28 md:mt-0 font-bold text-white">
 
             <ShinyText
               text="Coming Soon."
