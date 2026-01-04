@@ -10,7 +10,7 @@ export default function Home() {
         <Silk 
           speed={5}
           scale={1}
-          color="#33e0ea"
+          color="#424242"
           noiseIntensity={1.5}
           rotation={0}
         />
@@ -20,10 +20,10 @@ export default function Home() {
 
             <ShinyText
               text="Coming Soon."
-              speed={2}
+              speed={4}
               delay={0}
-              color="#b5b5b5"
-              shineColor="#ffffff"
+              color="#0ed5ec"
+              shineColor="#53eab2"
               spread={120}
               direction="left"
               yoyo={false}
